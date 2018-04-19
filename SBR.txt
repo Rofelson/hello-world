@@ -1,0 +1,41 @@
+Remote Controller Parts:
+
+    One Arduino Nano microcontroller
+
+    One nRF24L01+ low power version module.
+
+    One LCD screen.
+
+    One joystick.
+
+    Four pushbuttons.
+
+    Five 220 ohm resistors.
+
+    One potentiometer.
+
+    One breadboard.
+
+    Some jumper wires.
+
+Robot Parts:
+
+    One Arduino Nano microcontroller.
+
+    One nRF24L01+ low power version module.
+
+    One MPU6050 module, which has an accelerometer and a gyroscope.
+
+    One L293D motor driver IC.
+
+    Two gear motrs
+
+    One 12V AAA battery pack.
+
+    One power bank.
+
+    Some M3 bots and nuts.
+
+    Three small breadboards.
+
+    Some jumper wires.
